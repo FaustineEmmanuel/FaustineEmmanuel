@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Faustine.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Faustine Emmanuel</h1>
 <h3 align="center">Software Developer | Web & System Builder | Tech Enthusiast</h3>
 
