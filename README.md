@@ -1,7 +1,3 @@
-# Hi 👋, I'm Faustine Emmanuel
-// [🚀 View my Full Portfolio](https://read-me-enhancer--mwecauictclub.replit.app)
-
-
 <p align="center">
   <img src="Faustine.png" />
 </p>
